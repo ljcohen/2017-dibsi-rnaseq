@@ -65,6 +65,7 @@ NOTE: if you do not have files, please rerun quality trimming steps [here](quali
 We can download a full assembly to use for mapping. This assembly was made with all Nematostella vectensis reads, rather than the subset we used in the [assembly](assembly-trinity.html) tutorial.
 
 ```
+   cd
    cd ${PROJECT}
    mkdir -p quant
    cd quant
